@@ -1,7 +1,3 @@
 [server]
-headless = true
-port = 8501
+maxUploadSize = 50
 enableCORS = false
-
-[python]
-version = "3.12"
