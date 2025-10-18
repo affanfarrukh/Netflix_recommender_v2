@@ -1,6 +1,5 @@
-streamlit==1.38.0
-pandas==2.2.2
-numpy==1.24.4
-scikit-learn==1.2.2
-Cython==0.29.36
-altair==5.0.1
+streamlit==1.39.0
+pandas==2.2.3
+numpy==1.26.4
+scikit-learn==1.5.2
+altair==5.4.1
